@@ -1,0 +1,13 @@
+# Archivos de Node.js / NPM
+/node_modules
+npm-debug.log
+.DS_Store
+
+# Archivos y carpetas de Apify CLI (almacenamiento local)
+/storage
+apify_storage/
+
+# Archivos de compilacion / temporales
+/dist
+/build
+.apify-temp
